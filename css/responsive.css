@@ -1,0 +1,125 @@
+
+
+
+
+/* for lg devices */
+
+@media screen and (min-width:992px) and (max-width: 1199px) {
+
+
+          
+
+            }
+
+
+/* for ipad */
+
+@media screen and (min-width:768px) and (max-width: 991px) {
+
+   
+
+
+
+  
+   
+
+}
+
+
+
+
+
+/* for mobile */
+
+@media screen and (max-width: 767px){
+
+   /* lg view */
+
+   .header-area,
+   .hero-section{
+       display: none;
+   }
+
+   /* header mobile viwe */
+
+   .header-sm {
+        background: #EEF7E9;
+        display: block;
+   }
+
+   .time-area {
+       padding: 10px 0;
+   }
+
+   .signal-items {
+       padding: 10px 0;
+   }
+
+    .time-area span {
+        color: #181414; 
+        display: block;
+        margin-left: 10px; 
+    }
+
+    .signal-items ul {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .signal-items i {
+        color: #131212;
+        display: block;
+        margin: 0 10px  0 0;
+    }
+
+    /* header  */
+
+    .header-sm-viwe {
+        padding: 20px 0;
+    }
+
+    /* product details sm viwe */
+
+    .product-details {
+         display: block;
+    }
+
+
+    /*  */
+
+    .category-area {
+        display: none;
+    }
+
+
+
+    /* footer */
+
+    .footer-area {
+        display: none;
+    }
+
+
+
+
+    
+  
+   
+
+
+
+   
+   
+
+
+   
+   
+        
+
+  
+  
+}
+
+
+
+
